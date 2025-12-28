@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\NHÓM 6\bin\Debug\net9.0\NHÓM 6.exe
+C:\Users\LENOVO\Desktop\NHÓM 6\bin\Debug\net9.0\NHÓM 6.deps.json
+C:\Users\LENOVO\Desktop\NHÓM 6\bin\Debug\net9.0\NHÓM 6.runtimeconfig.json
+C:\Users\LENOVO\Desktop\NHÓM 6\bin\Debug\net9.0\NHÓM 6.dll
+C:\Users\LENOVO\Desktop\NHÓM 6\bin\Debug\net9.0\NHÓM 6.pdb
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\NHÓM 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\NHÓM 6.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\NHÓM 6.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\NHÓM 6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\NHÓM 6.dll
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\refint\NHÓM 6.dll
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\NHÓM 6.pdb
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\NHÓM 6.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\NHÓM 6\obj\Debug\net9.0\ref\NHÓM 6.dll
