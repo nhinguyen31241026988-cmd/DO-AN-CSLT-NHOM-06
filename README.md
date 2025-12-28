@@ -5,8 +5,6 @@ nhằm áp dụng kiến thức về **cấu trúc dữ liệu, giải thuật v
 
 Dự án tích hợp **module quản lý bảng điểm** và các **thuật toán sắp xếp – tìm kiếm** phục vụ cho việc lưu trữ và tra cứu kết quả người chơi.
 
----
-
 🚀 Tính năng chính
 
 - 🎮 **Chơi Sudoku**
@@ -32,8 +30,6 @@ Dự án tích hợp **module quản lý bảng điểm** và các **thuật to�
   - Đọc lại dữ liệu khi khởi động chương trình
   - Xử lý ngoại lệ khi đọc/ghi file
 
----
-
 🛠 Công nghệ sử dụng
 
 - Ngôn ngữ: **C# (.NET)**
@@ -42,8 +38,6 @@ Dự án tích hợp **module quản lý bảng điểm** và các **thuật to�
 - Thuật toán:
   - Insertion Sort
   - Binary Search
-
----
 
 📂 Hướng dẫn cài đặt và Chạy dự án
 
